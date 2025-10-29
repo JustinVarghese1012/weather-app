@@ -1,6 +1,6 @@
 import React from "react";
 
-import WeatherCard from "./WeatherCArd";
+import WeatherCard from "./WeatherCard";
 
 export default function Weather({ weather, error }) {
   return (
